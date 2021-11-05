@@ -1,6 +1,6 @@
-# all we need is the sourc code or .class files 
+# all we need is the sourc code or .java files 
 # no need for the rest
 # -------------------------------------
-projects/.idea
-projects/out
-projects/*.iml
+projects/**/.idea
+projects/**/out
+projects/**/*.iml
