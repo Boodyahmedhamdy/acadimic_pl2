@@ -1,0 +1,6 @@
+# all we need is the sourc code or .class files 
+# no need for the rest
+# -------------------------------------
+projects/.idea
+projects/out
+projects/*.iml
